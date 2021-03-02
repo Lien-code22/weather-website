@@ -1,4 +1,3 @@
-console.log('Loading.....')
 
 
 const  weatherForm = document.querySelector('form')
